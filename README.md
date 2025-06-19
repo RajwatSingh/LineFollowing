@@ -39,5 +39,5 @@ A Python program for the [PiCar-X robotic chassis](https://github.com/Elecrow-Cr
 
 1. **Clone this repository**  
    ```bash
-   git clone https://github.com/yourusername/PiCarX-LineFollower.git
+   git clone https://github.com/RajwatSingh/PiCarX-LineFollower.git
    cd PiCarX-LineFollower
